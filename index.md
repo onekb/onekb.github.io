@@ -6,7 +6,7 @@
 
 2.[小鸡词典🐤的Alfred🎩插件](https://github.com/onekb/jikipedia-alfred-workflows)
 
-3.[EasyWchat最大的PHP微信非官方SDK -参与贡献](https://github.com/onekb/wechat) [文档](https://github.com/onekb/docs)
+3.[EasyWchat最大的PHP微信非官方SDK -参与贡献](https://github.com/onekb/wechat) [[文档]](https://github.com/onekb/docs)
 
 4.[MoChat最大的企业微信开源框架&引擎 -参与贡献](https://github.com/onekb/mochat)
 
